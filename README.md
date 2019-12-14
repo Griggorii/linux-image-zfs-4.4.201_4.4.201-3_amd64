@@ -3,6 +3,10 @@ linux-image-zfs-4.4.201_4.4.201-3_amd64 support ubuntu 16.04/16.10/17.04/17.10/1
 
 deb package size 56,4 MB https://drive.google.com/open?id=1q_2UeV-xRE8mdKeIhwMkj-fxNbfktBsC
 
+dkms 
+
+&& dpkg -i dkms_2.2.0.3-2ubuntu11.5_all.deb
+
 
 support :
 
