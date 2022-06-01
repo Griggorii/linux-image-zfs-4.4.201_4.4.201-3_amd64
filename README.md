@@ -1,9 +1,7 @@
 # linux-image-zfs-4.4.201_4.4.201-3_amd64
 linux-image-zfs-4.4.201_4.4.201-3_amd64 support ubuntu 16.04/16.10/17.04/17.10/18.04/18.10/19.04/19.10 portage  kernel xenial 16.04 source kernel  4.4.0-116-generic
 
-deb package size 56,4 MB https://drive.google.com/open?id=1q_2UeV-xRE8mdKeIhwMkj-fxNbfktBsC
-
-dkms 
+deb package size 56,4 MB https://github.com/Griggorii/linux-image-zfs-4.4.201_4.4.201-3_amd64/releases/tag/kernel
 
 && dpkg -i dkms_2.2.0.3-2ubuntu11.5_all.deb
 
